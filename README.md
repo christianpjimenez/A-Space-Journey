@@ -8,4 +8,4 @@ I learned a lot from this project, especially thinking in a creative way - for e
 
 I think this demonstrates the highlight of my skills because of its complexity and the creative ways I had to use to solve issues which I could not resolve in the traditional way. While I had created text games in Java and a few small games using Arduino and C/C++, and I had also done some level design in Unity previously during my studies, it was not until this time that I got to combine all these things I learned and put them into execution to make a functional, complete and fun game using all stages of development. Throughout this project, I had to think outside the box to be able to solve any issues encountered while coding and setting up the project.
 
-A preview to the gameplay can be found in the following link: https://youtu.be/5dKQnASCQsQ
+Scripts and main elements from the project can be found in subfolder Puzzle VR in Assets. A preview to the gameplay can be found in the following link: https://youtu.be/5dKQnASCQsQ
